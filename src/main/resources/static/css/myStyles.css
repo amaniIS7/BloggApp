@@ -1,0 +1,39 @@
+@charset "ISO-8859-1";
+
+
+body {
+	padding: 30px;
+}
+	header	{
+	background-image: url('http://www.wallpapertip.com/wmimgs/0-3795_wallpaper-books-library-shelves-lighting-hd-book-library.jpg');
+	background-position: center; 
+	background-repeat: no-repeat; 
+	background-size: cover; 
+	height: 500px;}
+
+footer{
+     position: fixed; 
+            padding: 10px 10px 0px 10px; 
+            bottom: 0; 
+            width: 100%; 
+            /* Height of the footer*/  
+            height: 40px; 
+            background: grey; 
+            
+            
+  background-color:#26272b;
+  font-size:15px;
+  line-height:24px;
+  color:#737373;
+/* Height of the footer */
+   text-align:center;
+}
+
+
+h3{
+   text-align:center;
+     color:#F8F8FF
+     ;
+       font-family: 'Brush Script MT', cursive;
+     
+}
